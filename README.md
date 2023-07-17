@@ -47,6 +47,10 @@ App robusta encargada de las reservas para hotel aplicando filtros por habitacio
 con envio de notificaciones al usuario en cada reserva ,por  pago aprobado y fallido, con barra de busqueda por nombre
 de habitacion disponible. con autentificacion de terceros, reviews y dashboard de uso administrativo.
 
+TECH SKILLSS 💥
+
+✔️ JAVASCRIPT ✔️ HTML5 ✔️ CSS ✔️ NODE.JSS ✔️ EXPRESS ✔️ REACT ✔️ REDUX ✔️ POSTGRESQL ✔️ SEQUELIZE ✔️ MONGODB ✔️ MONGOOSE
+
 
 
 
