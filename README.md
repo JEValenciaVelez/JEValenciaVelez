@@ -6,6 +6,7 @@ Soy desarrollador web Fullstack , con inclinacion al Desarrollo Backend.
 Me encanta trabajar en equipo y aportar al crecimiento de un proyecto, desde su creacion hasta su terminacion.
 
 Mi objetivo ?
+
 impacatar el mundo de la tecnologia Generando  soluciones logicas en codigo !!
 
 PROYECTOS:
