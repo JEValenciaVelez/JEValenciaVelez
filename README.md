@@ -49,7 +49,7 @@ de habitacion disponible. con autentificacion de terceros, reviews y dashboard d
 
 TECH SKILLSS 💥
 
-✔️ JAVASCRIPT ✔️ HTML5 ✔️ CSS ✔️ NODE.JSS ✔️ EXPRESS ✔️ REACT ✔️ REDUX ✔️ POSTGRESQL ✔️ SEQUELIZE ✔️ MONGODB ✔️ MONGOOSE
+✔️ JAVASCRIPT ✔️ HTML5 ✔️ CSS ✔️ NODE.JS ✔️ EXPRESS ✔️ REACT ✔️ REDUX ✔️ POSTGRESQL ✔️ SEQUELIZE ✔️ MONGODB ✔️ MONGOOSE
 
 
 
