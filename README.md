@@ -1,56 +1,34 @@
-HOLA SOY JUAN ESTEBAN VALENCIA
+<h1 align="center">Hola 👋, I'm Juan Esteban!</h1>
+<h3 align="center">Fullstack web developer</h3>
 
-Quien soy ?
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diegoaph&label=Profile%20views&color=0e75b6&style=flat" alt="JEValenciaVelez" /> </p>
 
-Soy desarrollador web Fullstack , con inclinacion al Desarrollo Backend.
-Me encanta trabajar en equipo y aportar al crecimiento de un proyecto, desde su creacion hasta su terminacion.
+<section><h4 align="center">🔗Connect With me👇</h4>
+<p align="center">
+  <a href="mailto:Dev.juancho50301@gmail.com?subject=Hola%20Diego&body=Me%20gustar%C3%ADa%20hablar%20contigo" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Dev.jusncho50301@gmail.com" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-esteban-valencia-velez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juan-esteban-valencia-velez" height="30" width="40" /></a>
 
-Mi objetivo ?
+</p></section>
+- 🔭 I’m currently working on *several projects, look behind*
 
-impacatar el mundo de la tecnologia Generando  soluciones logicas en codigo !!
+- 🌱 currently learning *MongoDB*
 
-PROYECTOS:
+- 👯 I'd like to collaborate on *your company or project!*
 
-Videogames APP -> Desarrollo de una SPA (Single Page Application) utilizando las siguientes tecnologias: 
-Front-End: React | Redux | Hooks | HTML | CSS Module. 
-Back-End: Node.JS | Express.js 
-Base de datos: PostgreSQL | Sequalize.
+- 🤝 I’m available and *open to work*
 
-CARACTERISTICAS DE LA APLICACION
+- 👨‍💻 All of my projects are available at [Working on it](Working on it)
 
-Posibilidad de aplicar distintos criterios de filtrado.
-Búsquedas  a través de un Search Bar.
-Posibilidad del usuario de agregar nuevos videojuegos a través de un formulario controlado.
-Visibilizar los detalles .
+- 💬 Ask me about *React.js, Redux.js, Express.js, PostgreSQL*
 
-FOOD APP - Desarrollo de un SPA (Single Page Application) utilizando las siguientes tecnologias:
-Front-End: React | Redux | Hooks | HTML | CSS Module. 
-Back-End: Node.JS | Express.js 
-Base de datos: PostgreSQL | Sequalize. 
+- 📫 How to reach me *Dev.juancho50301@gmail.com*
 
-CARACTERISTICAS DE LA APLICACION:
-
-Posibilidad de aplicar distintos tipos de filtrados a las recetas que se muestran en la pagina.
-Visibilizar el detalle de cada receta, como puede ser sus ingredientes, su tipo de dieta, su nivel de comida saludable, etc.
-Búsqueda de una receta en particular a través de un Search Bar.
-Posibilidad del usuario de crear su propia receta a través de un formulario controlado.
-
-MOTOR DE RESERVAS DE HOTEL - Desarrollo colaborativo de aplicacion web utilizando las siguientes tecnologias:
-Front-End: React | Redux-toolkit | Hooks | firebase | MUI. 
-Back-End: Node.JS | Express.js | Express - validator | Nodemailer 
-Base de datos: MongoDB | Mongoose.
-
-Caracteristicas de la aplicacion :
-
-Desarrollo en equipo en el cual hice parte del backend implementado y configurando las tecnologias escritas. 
-App robusta encargada de las reservas para hotel aplicando filtros por habitaciones, precios , disponibilidad ,
-con envio de notificaciones al usuario en cada reserva ,por  pago aprobado y fallido, con barra de busqueda por nombre
-de habitacion disponible. con autentificacion de terceros, reviews y dashboard de uso administrativo.
-
-TECH SKILLSS 💥
-
-✔️ JAVASCRIPT ✔️ HTML5 ✔️ CSS ✔️ NODE.JS ✔️ EXPRESS ✔️ REACT ✔️ REDUX ✔️ POSTGRESQL ✔️ SEQUELIZE ✔️ MONGODB ✔️ MONGOOSE
+- 📄 Know about my experiences on my LinkedIn: [Linkedin.com/in/juan-esteban-valencia-velez/](Linkedin.com/in/juan-esteban-valencia-velez/)
 
 
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="80" height="80"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-or…
 
 
