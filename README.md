@@ -21,7 +21,7 @@
 
 - 💬 Ask me about *React.js, Redux.js, Express.js, PostgreSQL*
 
-- 📫 How to reach me *Dev.juancho50301@gmail.com*
+- 📫 How to reach me *juancho50301@gmail.com*
 
 - 📄 Know about my experiences on my LinkedIn: [Linkedin.com/in/juan-esteban-valencia-velez/](Linkedin.com/in/juan-esteban-valencia-velez/)
 
