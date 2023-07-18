@@ -5,7 +5,7 @@
 
 <section><h4 align="center">🔗Connect With me👇</h4>
 <p align="center">
-  <a href="mailto:Dev.juancho50301@gmail.com?subject=Hola%20Diego&body=Me%20gustar%C3%ADa%20hablar%20contigo" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Dev.jusncho50301@gmail.com" height="40" width="40" /></a>
+  <a href="juancho50301@gmail.com?subject=Hola%20Diego&body=Me%20gustar%C3%ADa%20hablar%20contigo" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Dev.jusncho50301@gmail.com" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/juan-esteban-valencia-velez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/juan-esteban-valencia-velez" height="30" width="40" /></a>
 
 </p></section>
