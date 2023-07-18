@@ -23,7 +23,7 @@
 
 - 📫 How to reach me *juancho50301@gmail.com*
 
-- 📄 Know about my experiences on my LinkedIn: [Linkedin.com/in/juan-esteban-valencia-velez/](Linkedin.com/in/juan-esteban-valencia-velez/)
+- 📄 Know about my experiences on my LinkedIn: [Linkedin.com/in/juan-esteban-valencia-velez/](https://www.linkedin.com/in/juan-esteban-valencia-velez/)
 
 
 
